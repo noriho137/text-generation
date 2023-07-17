@@ -38,3 +38,5 @@ Since the following files are in jupyter notebook format and can be run in Googl
 
 * `notebook/text_generation_01.ipynb`: Text generation by Transformers pipeline.
 * `notebook/text_generation_02.ipynb`: Text generation by Transformers pipeline and LangChain.
+* `notebook/text_generation_03_A.ipynb`: Text generation by Transformers pipeline, LangChain and Chroma (using LangChain's  Chroma wrapper interface).
+* `notebook/text_generation_03_B.ipynb`: Text generation by Transformers pipeline, LangChain and Chroma (using original Chroma interface).
